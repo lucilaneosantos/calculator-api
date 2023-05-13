@@ -1,4 +1,4 @@
-package com.lucilaneosantos;
+package com.lucilaneosantos.calculatorapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
